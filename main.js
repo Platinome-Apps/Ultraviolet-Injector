@@ -1,0 +1,1 @@
+createNewItem(`Ultraviolet`, `Ultraviolet`, ` var bgim = document.getElementById('backgroundImage'); var taskBar = document.querySelector('injtaskbar'); let win = openWindow(900, 600, 'Ultraviolet', true, Injector.user.icons.ProxB); win.innerHTML="<iframe style='width:100%;height:100%;' src='https://grandiose-rebel-math.glitch.me/'>"; `, Injector.user.icons.ProxB);
